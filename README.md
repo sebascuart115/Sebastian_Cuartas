@@ -1,5 +1,5 @@
 # UPDATING REPOSITORY DESCRIPTION
-# <p align="center"> Sebastian_Cuartas </p>
+# <p align="center"> Sebastian Cuartas </p>
   <p align="center">
       Computer Science BS | Game Development, Programmer, and Software Engineering 
   </p>
