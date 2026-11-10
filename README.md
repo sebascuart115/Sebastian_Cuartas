@@ -1,15 +1,4 @@
 # UPDATING REPOSITORY DESCRIPTION
-Learn more about me: Goals, Dreams, Skills, Experiences, Projects, Contributions
-
-
-
-
-
-
-
-
-
-
 # <p align="center"> Sebastian_Cuartas </p>
   <p align="center">
       Computer Science BS | Game Development, Programmer, and Software Engineering 
